@@ -24,6 +24,7 @@ members = [
     "vulnerable/leaky_events",
     "vulnerable/no_slippage",
     "vulnerable/ignored_return",
+    "vulnerable/weak_randomness",
     "secure/secure_vault",
     "secure/protected_admin",
     "secure/secure_transfer",
